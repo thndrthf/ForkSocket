@@ -1,3 +1,4 @@
+CLICK HERE TO DOWNLOAD THE LATEST RELEASE: https://github.com/thndrthf/ForkSocket/releases
 
 ForkSocket2
 
